@@ -14,6 +14,10 @@ DATE: 05 27 2024
 - Figure out a way to have output files go to output folder and not main folder
 
 
+NOTE 07102026: This file is formatted for coding using Spyder. The characters "#%%" divide the code into "cells" that 
+can be run individually (similar to Jupyter Notebook cells) 
+
+Original RegEx word-counting code was written by discord user josephm611 (though has since been modified extensively by myself)
 
 '''
 
